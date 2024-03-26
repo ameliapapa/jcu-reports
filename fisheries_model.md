@@ -1,7 +1,6 @@
 # Sustainable Fishery Modelling
 ### Amelia Papa
 ### 04.09.2018
----
 
 ## Introduction
 
