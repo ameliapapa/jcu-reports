@@ -1,14 +1,13 @@
----
-title: "Sustainable Fishery Modelling"
-output: html_document
-date: "2024-03-26"
+# Sustainable Fishery Modelling
+### Amelia Papa
+### 04.09.2018
 ---
 
 ## Introduction
 
 Humans have fished the oceans for a very long time, and up until 100 years ago most people belived this would always be the case. Nowadays countries put more effort into managing and protecting fish stocks, but fishery collapse still occurs. Declining stocks are still fished and ultimately a population may not recover once fishing pressure is ceased. The aim of this report is to formulate a process-based model for a sustainable fishery that will respond to different circumstances, and allow us to assess parameters.
 
-# Model formulation
+## Model formulation
 
 Density dependent population growth relates to the fact that a population cannot grow geometrically forever, as it will start to run out of resources and space. This leads to fluctuations in population size over time. 
 ```{r}
